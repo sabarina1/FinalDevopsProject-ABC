@@ -14,6 +14,12 @@ function viewProduct(){
 alert("You will be navigated to view module");  
 }
 </script>
+<button name="shopping cart" value="shopping cart" type="button" onclick="shoppingcart()">shopping cart</button>  
+<script>  
+function shoppingcart(){  
+alert("You will be navigated to Shopping module");  
+}  
+</script>  
 </body>
 </html>
 
